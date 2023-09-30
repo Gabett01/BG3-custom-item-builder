@@ -5,7 +5,7 @@ Nexus link: https://www.nexusmods.com/baldursgate3/mods/2791
 
 ## What does it do?
 
-Pulls user defined data from a txt file. Appends new entries to Merged.lsx, <localization>.xml, Weapon.txt and/or Armor.txt using this data. Automatically generates UUIDs and handles where necessary.
+Pulls user defined data from a txt file. Appends new entries to Merged.lsx, [localization].xml, Weapon.txt and/or Armor.txt using this data. Automatically generates UUIDs and handles where necessary.
 
 ## How to use
 
