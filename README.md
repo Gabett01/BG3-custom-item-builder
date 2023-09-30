@@ -34,9 +34,9 @@ You will still need to convert the resulting files into the right format (xml ->
 
 The included files already contain examples. You can create multiple items at once by adding values for multiple items under each other.
 
-============
+
 FOR WEAPONS:
-============
+
 The script will pull the necessary values from weapon_values.txt
 The file needs to adhere to the following format:
 
@@ -81,9 +81,9 @@ Description:
 This is the next example weapon. See how there is no blank line between the two?
 ....
 
-==========
+
 FOR ARMOR:
-==========
+
 The script will pull the necessary values from armor_values.txt
 The file needs to adhere to the following format:
 
