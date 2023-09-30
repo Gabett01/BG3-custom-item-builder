@@ -7,6 +7,10 @@ Nexus link: https://www.nexusmods.com/baldursgate3/mods/2791
 
 Pulls user defined data from a txt file. Appends new entries to Merged.lsx, [localization].xml, Weapon.txt and/or Armor.txt using this data. Automatically generates UUIDs and handles where necessary.
 
+It will NOT overwrite already existing data, only add new entries. Meaning that you can easily use it to expand an already existing mod.
+
+Alternatively, there are blank files provided in the optional section if you are starting from scratch.
+
 ## How to use
 
 The script assumes that you have already set up the correct file structure for mod creation. It WILL either complain at you or just plain shut down if it can't find something. Check for typos if that happens.
