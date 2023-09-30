@@ -1,0 +1,10 @@
+Display name:
+Test armor
+Description:
+This is a test armor.
+Internal name tag:
+GAB_test_armor_01
+Icon tag:
+Item_MAG_ChargedLightning_BonusAC_Robe
+Parent template UUID:
+7ec40cde-4d96-4352-b93e-cdcab6383337

@@ -1,0 +1,16 @@
+Display name:
+Test weapon
+Description:
+This is a test weapon.
+Internal name tag:
+GAB_test_weapon_01
+Icon tag:
+Item_WPN_HUM_HandCrossbow_A_1
+Parent template UUID:
+d2f396c2-9b1b-4eea-bf21-2f25934f092d
+Equipment type UUID:
+87fbc05b-c870-4bc1-fb95-ea56cb3f229e
+Physics template UUID:
+b34614de-6a17-d61b-6716-f47324aa1dff
+Visual template UUID:
+79e935b4-9dca-7fdc-bc55-ba7e846909f9
