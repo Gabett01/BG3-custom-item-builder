@@ -7,7 +7,7 @@ Pulls user defined data from a txt file. Appends new entries to Merged.lsx, <loc
 
 ## How to use
 
-The script assumes that you have already set up the collect file structure for mod creation. It WILL either complain at you or just plain shut down if it can't find something. Check for typos if that happens.
+The script assumes that you have already set up the correct file structure for mod creation. It WILL either complain at you or just plain shut down if it can't find something. Check for typos if that happens.
 
 Step 1: set up correct file structure
 
@@ -24,7 +24,7 @@ Step 5: drink water and stretch
 It won't fill in armor/weapon stats. I left these empty so you can easily customize them in their respective txt file.
 However, you can open up the script in your preferred editor and fill in more default values if you want. These will then be used for every new item you create.
 
-It also won't fill in armor visuals in Merged.lsx. There are too many possible variations here, and it would have taken away from the aim of this mod: simplicity.
+It also won't fill in armor visuals in Merged.lsx. There are too many possible variations here, and it would have taken away from the aim of this tool: simplicity.
 
 You will still need to convert the resulting files into the right format (xml -> loca, lsx -> lsf) and finally package the mod.
 
