@@ -10,9 +10,13 @@ Pulls user defined data from a txt file. Appends new entries to Merged.lsx, <loc
 The script assumes that you have already set up the collect file structure for mod creation. It WILL either complain at you or just plain shut down if it can't find something. Check for typos if that happens.
 
 Step 1: set up correct file structure
+
 Step 2: place the script and any accompanying files next to your mod folder
+
 Step 3: fill in desired values in weapon_values.txt and/or armor_values.txt
+
 Step 4: run script
+
 Step 5: drink water and stretch
 
 ## What it DOESN'T do
